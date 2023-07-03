@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansari Arif Akbar</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://wallpaper.dog/code-wallpapers">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arif-ansari123&label=Profile%20views&color=0e75b6&style=flat" alt="arif-ansari123" /> </p>
 
